@@ -5,6 +5,7 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Courier New" />
   <attributes>
+    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="LOGCAT_ASSERT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="aa66cc" />
