@@ -1,0 +1,13 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <option name="INSTRUMENTATION" value="ASSERT" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="RegExp" injector-id="xml">
+      <display-name>suppress/@files</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("files")).withParent(xmlTag().withLocalName(string().equalTo("suppress")).withNamespace(string().equalTo("http://www.puppycrawl.com/dtds/suppressions_1_1.dtd")))]]></place>
+    </injection>
+  </component>
+</application>

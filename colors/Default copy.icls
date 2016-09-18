@@ -1,0 +1,14 @@
+<scheme name="Default copy" version="142" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Courier New" />
+  <attributes>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="7f0000" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
