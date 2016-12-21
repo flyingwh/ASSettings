@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[app] - ...\app\src\main\java\com\gomemyc\mylc\android\ui\main\common\ItemProductViewModel.java'" />
-    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\java\com\gomemyc\mylc\android\ui\main\common\ItemProductViewModel.java'" />
-    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\java\com\gomemyc\mylc\android\ui\main\common\ItemProductViewModel.java'" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
