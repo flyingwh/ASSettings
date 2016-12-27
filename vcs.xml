@@ -62,4 +62,7 @@
     </option>
     <option name="cloneParentDir" value="D:\Android\workspace" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="D:\Android\workspace\gmjr" />
+  </component>
 </application>
