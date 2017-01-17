@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[app] - ...\app\src\main\java\com\gomemyc\mylc\android\activity\TransferActivity.java'" />
-    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\java\com\gomemyc\mylc\android\activity\TransferActivity.java'" />
-    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\java\com\gomemyc\mylc\android\activity\TransferActivity.java'" />
+    <option name="customScope" value="Project 'Android-GomeFinance'" />
+    <option name="defaultScopeName" value="Project 'Android-GomeFinance'" />
+    <option name="SEARCH_SCOPE" value="Project 'Android-GomeFinance'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
