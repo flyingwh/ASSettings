@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/rallat/smokeAndMirrors" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/blackcj/AndroidCustomKeyboard.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Android\workspace" />
