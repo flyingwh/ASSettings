@@ -66,6 +66,10 @@
           <option name="url" value="https://github.com/airbnb/lottie-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab.gomemycdev.com:29418/fund/android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Android\workspace" />

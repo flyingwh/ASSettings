@@ -3,7 +3,6 @@
     <option name="customScope" value="Module 'jrmvvm'" />
     <option name="defaultScopeName" value="Module 'jrmvvm'" />
     <option name="SEARCH_SCOPE" value="Module 'jrmvvm'" />
-    <option name="FILE_MASK" value="*ragment.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -12,9 +11,9 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*ragment.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
