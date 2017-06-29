@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*ragment.java</mask>
       <mask>*.xm</mask>
@@ -15,7 +15,6 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*</mask>
       <mask>*.grr</mask>
       <mask>*.grro</mask>
       <mask>*.grrov</mask>
@@ -26,7 +25,6 @@
       <mask>*.bui</mask>
       <mask>*.bu</mask>
       <mask>*.b</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gro</mask>
@@ -37,6 +35,8 @@
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
