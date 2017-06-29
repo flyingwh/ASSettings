@@ -9,7 +9,6 @@
     <recentFileMasks>
       <mask>*ragment.java</mask>
       <mask>*.xm</mask>
-      <mask>*.gradl</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -22,11 +21,6 @@
       <mask>*.grrov</mask>
       <mask>*.grrovy</mask>
       <mask>*.grovy</mask>
-      <mask>*.gr</mask>
-      <mask>*.gro</mask>
-      <mask>*.groo</mask>
-      <mask>*.groov</mask>
-      <mask>*.groovy</mask>
       <mask>*.build</mask>
       <mask>*.buil</mask>
       <mask>*.bui</mask>
@@ -34,8 +28,14 @@
       <mask>*.b</mask>
       <mask>*.</mask>
       <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
+      <mask>*.gradl</mask>
       <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
