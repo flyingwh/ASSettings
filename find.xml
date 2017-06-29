@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.groovy" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
@@ -16,9 +16,6 @@
       <mask>*.xm</mask>
       <mask>*.gradl</mask>
       <mask>*.x</mask>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradle</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
@@ -29,14 +26,17 @@
       <mask>*.groov</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
       <mask>*.grr</mask>
       <mask>*.grro</mask>
       <mask>*.grrov</mask>
       <mask>*.grrovy</mask>
       <mask>*.grovy</mask>
       <mask>*.groovy</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
